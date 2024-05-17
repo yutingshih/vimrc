@@ -8,7 +8,7 @@ set wildmenu                            " display command line's tab complete op
 colorscheme desert                      " change colorscheme
 set cursorline                          " highlight the line currently under cursor
 set number                              " show line number on the side bar
-set relativenumber                      " show line number on the current line and relative numbers on all other lines
+"set relativenumber                      " show line number on the current line and relative numbers on all other lines
 set mouse=a                             " enable mouse for scrolling and resizing
 
 " [Indentation options]
